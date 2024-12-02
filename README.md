@@ -94,4 +94,5 @@ public class BuilderDemo {
 ```
 ### [观察者模式](src/main/kotlin/Observe.kt)
 ![observer.png](images/观察者模式.png)
+
 这个没啥好解释的，各种监听回调，就是减少具体实例之间的相互引用
